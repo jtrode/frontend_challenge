@@ -1,0 +1,16 @@
+div {
+    text-align: center;
+  }
+
+body {
+    background-color: beige;
+    font-family: 'Roboto', sans-serif;
+}
+
+.main-title {
+    color: blue;
+}
+
+#subtitle {
+    color: darkblue;
+}
